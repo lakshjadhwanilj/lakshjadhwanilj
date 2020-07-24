@@ -7,38 +7,18 @@
 - 👯 I’m looking to collaborate on MERN Stack projects. :call_me_hand:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lakshjadhwani-lj/)
 - ⚡ Fun fact: Apart from coding :man_technologist:, I'm an artist :man_artist:, and a nerd :superhero:
-<!--
-### Programming Languages :rocket:
-1. HTML
-1. CSS
-1. JavaScript
-1. React.js
-1. Node.js
-1. Express.js
-1. Python
-1. Java
-1. C
--->
-<!--
-### Tools :fire:
-1. BootStrap
-1. Sass
-1. jQuery
-1. MySql
-1. MongoDB
-1. FireBase
--->
-| Programming Languages :rocket: | Tools :fire: |
+
+| Programming Languages :rocket: | Tools :fire: | 
 |--------|--------|
-| 1. HTML | 1. BootStrap |
-| 2. CSS | 2. Sass |
-| 3. JavaScript | 3. jQuery |
-| 4. React.js | 4. MySql |
+| 1. JavaScript | 1. BootStrap |
+| 2. React.js | 2. Sass |
+| 3. HTML | 3. jQuery |
+| 4. CSS | 4. MySql |
 | 5. Node.js | 5. MongoDB |
 | 6. Express.js | 6. Firebase |
-| 7. Python |  |
-| 8. Java |  |
-| 9. C |  |
+| 7. Python |--------|
+| 8. Java |--------|
+| 9. C |--------|
 
 [![Laksh's github stats](https://github-readme-stats.vercel.app/api?username=lakshjadhwanilj&show_icons=true&theme=dark)](https://github.com/lakshjadhwanilj/github-readme-stats)
 <!--
