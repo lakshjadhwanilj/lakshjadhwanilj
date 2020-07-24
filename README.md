@@ -1,6 +1,6 @@
 ## Hello Developers :wave:
 
-|I'm [Laksh](https://github.com/lakshjadhwanilj) a Fourth Year CSE Student at [TSEC](https://tsecoutreach.com/) :school:. I'm an aspiring Full Stack Web Developer :computer:. |![Coding Cat](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)|
+|<p align='left'>I'm [Laksh](https://github.com/lakshjadhwanilj) a Final Year CSE Student at [TSEC](https://tsecoutreach.com/) :school:. I'm an aspiring Full Stack Web Developer :computer:. I love to build new things :v:. </p>|![Coding Cat](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)|
 |-------|-------|
 - 🔭 I’m currently working on React Native and React.js :electron:
 - 🌱 I’m currently learning React Native :electron:
