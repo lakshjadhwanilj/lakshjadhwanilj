@@ -35,9 +35,10 @@
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 
-<br />
+<br/>
+<br/>
 
----
+___
 
 ![Laksh's github stats](https://github-readme-stats.vercel.app/api?username=lakshjadhwanilj&show_icons=true&theme=dark)
 
