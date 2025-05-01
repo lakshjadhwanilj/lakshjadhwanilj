@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Laksh Jadhwani 👋</h1>
+<h1 align="center">Hey there, I'm Laksh! 🙋‍♂️</h1>
 
 ## ✨ About Me
 
@@ -7,6 +7,8 @@ I'm **Laksh Jadhwani**, a passionate Full Stack Developer and Cloud Enthusiast. 
 I enjoy building modern web applications using technologies like **React.js**, **Next.js**, **Python**, and **AWS**. I'm passionate about creating scalable systems and solving real-world problems through clean and efficient code.
 
 Outside of tech, I enjoy **digital art**, **anime**, **painting**, **reading novels**, and **working out**.
+
+I’m currently seeking **full-time Software Engineering opportunities** starting in 2025, with a focus on full stack, backend, or cloud-focused roles.
 
 ---
 
@@ -99,6 +101,7 @@ Outside of tech, I enjoy **digital art**, **anime**, **painting**, **reading nov
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshjadhwanilj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://laksh-jadhwani.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lakshjadhwani.lj20@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-informational?style=flat&logo=google-drive&logoColor=white&color=blue)](https://drive.google.com/file/d/1QOjxLqNDpWEg2909c8ZGidAHyEWrs73b/view?usp=sharing)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lakshjadhwanilj/)
 
 
